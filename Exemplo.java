@@ -1,6 +1,6 @@
 public class Exemplo{
     public static void main(String[] args) {
-        System.out.println("Lore Joga volei ");
+        System.out.println("Lore Joga volei");
         
     }
 }
